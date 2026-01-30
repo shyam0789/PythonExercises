@@ -1,0 +1,10 @@
+{
+  "Shyam": {
+    "age": 36,
+    "city": "Irving"
+  },
+  "Mowni": {
+    "age": 33,
+    "city": "Dallas"
+  }
+}
