@@ -12,3 +12,6 @@ print(heros)
 with open("stocks.csv", "r") as f, open("output.csv", "w") as out:
     out.write("Company Name,PE Ratio, PB Ratio\n")
     next(f)  # This will skip first line in the file which is a header
+
+#Sorting class objects
+sorted_emp_list = sorted(emp_list,key=sort_employee)
